@@ -39,7 +39,7 @@
     "event-source-polyfill": "^1.0.22",
     "leaflet": "^1.7.1",
     "promise": "^8.1.0",
-    "qs": "^6.9.6",
+    "qs": "^6.16.1",
     "ramda": "^0.27.1",
     "react": "^17.0.1",
     "react-chartjs-2": "^3.0.4",
